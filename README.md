@@ -1,6 +1,6 @@
 # Adidas-Account-Gen
 
-All Credit to https://github.com/doprdele for orginal script.
+All Credit to https://github.com/doprdele for orginal script and Simmy for editing it.
 
 --------------------------------------------------------------------
 1. Info:
@@ -19,10 +19,6 @@ All Credit to https://github.com/doprdele for orginal script.
 - When you are prompted for Prefix. It means enter everything before @gmail.com for instances: 
 - simmy212@gmail.com > enter simmy212
 - rest is self explanatory. 
---------------------------------------------------------------------
-3. Troubleshooting. DM me, willing to help you.
---------------------------------------------------------------------
-4. Feel free to study, revise mine. It's open source for a reason.
 --------------------------------------------------------------------
 
 
