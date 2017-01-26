@@ -6,7 +6,7 @@ All Credit to https://github.com/doprdele for orginal script and Simmy for editi
 1. Info:
 - Written on Python 2
 - Minor changes from orginal script. Writes to .txt. Can add other option to write to. DM me on twitter @backdoorcook
-- Requirements : Modules : requests , BeautifulSoup4 , GmailDotEmailGenerator
+- Requirements: Modules, requests, BeautifulSoup4 and GmailDotEmailGenerator
 --------------------------------------------------------------------
 2. How to Run:
 - Change first & last name in adidas account gen.py
