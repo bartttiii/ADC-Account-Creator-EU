@@ -1,5 +1,7 @@
 # Adidas-Account-Gen
 
+DONT USE THIS ANYMORE, ADIDAS HAS ADDED CAPTCHA AND THIS SCRIPT SUCKED ANYWAY
+
 All Credit to https://github.com/doprdele for orginal script and Simmy for editing it.
 
 How to Run:
